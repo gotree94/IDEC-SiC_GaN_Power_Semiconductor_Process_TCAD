@@ -1,2 +1,19 @@
 # SiC_GaN_Power_Semiconductor_Process_TCAD
-SiC_GaN_Power_Semiconductor_Process_TCAD
+
+00_Course_Index_and_Syllabus.md
+
+01_Week1_Overview_and_WBG_Process_Fundamentals.md
+
+02_Week2_SiC_Frontend_Processes.md
+
+03_Week3_SiC_Contacts_Integration_and_Termination.md
+
+04_Week4_GaN_HEMT_Process_Reliability_and_Characterization.md
+
+05_TCAD_Verification_Setup_and_Calibration.md
+
+06_Industry_Practice.md
+
+07_References_and_Professor_Publications.md
+
+
